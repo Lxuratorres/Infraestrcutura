@@ -1,6 +1,6 @@
 FROM python:3.11-slim
 
-LABEL maintainer="Didier Agamez" \
+LABEL maintainer="Laura Torres" \
       description="Aplicación web mínima en Python con Flask - Ejercicio 1" \
       version="1.0"
 

@@ -1,9 +1,7 @@
-version: '3.8'
-
 services:
   ejercicio1-app:
     build: .
-    image: didier/flask-app-ejercicio1:1.0
+    image: lxuratorres/flask-app-ejercicio1:1.0
     container_name: flask_ejercicio1
     ports:
       - "5000:5000"
